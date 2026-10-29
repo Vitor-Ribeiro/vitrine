@@ -4,7 +4,7 @@
 
 Envie um currículo em PDF e a IA (Google Gemini) lê sua trajetória, reescreve os textos com mais impacto e monta um site completo, que você personaliza e baixa pronto para publicar.
 
-🔗 **Demo:** _adicione aqui o link da Vercel_
+🔗 **Demo:** https://vitrine-rouge.vercel.app
 
 ![Prévia](docs/preview.png)
 
