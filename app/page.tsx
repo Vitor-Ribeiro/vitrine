@@ -177,7 +177,7 @@ export default function Home() {
       <div className="glow" />
       <header className="top">
         <span className="logo"><span className="logo-mark" /> Vitrine</span>
-        <a className="gh" href="https://github.com" target="_blank" rel="noopener">GitHub ↗</a>
+        <a className="gh" href="https://github.com/Vitor-Ribeiro/vitrine" target="_blank" rel="noopener">GitHub ↗</a>
       </header>
 
       <section className="intro">
